@@ -12,8 +12,8 @@ import com.ecodeup.model.Persona;
 public class MainApp {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+//CRUD EFECTUADO
 		int opcion = 0;
 		Long cedula;
 		Scanner scanner = new Scanner(System.in);
